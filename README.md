@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raajann&label=Profile%20views&color=0e75b6&style=flat" alt="raajann" /> </p>
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1AyCLei_IZCuF9Z7d5psHeAKl3DD6INIk/view?usp=drive_link
+- 📄 Know about my experiences - <a href="https://drive.google.com/file/d/1AyCLei_IZCuF9Z7d5psHeAKl3DD6INIk/view?usp=drive_link" target="blank">Click Here!</a>
 
 - 📫 How to reach me **nv307@rutgers.edu**
 

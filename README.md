@@ -6,7 +6,7 @@
 
 - 📄 Know about my experiences - <a href="https://drive.google.com/file/d/1AyCLei_IZCuF9Z7d5psHeAKl3DD6INIk/view?usp=drive_link" target="blank">Click Here!</a>
 
-- 📫 How to reach me **nv307@rutgers.edu**
+- 📫 How to reach me **Nishchay89@gmail.com**
 
 - ⚡ Fun fact **I geek out on smartphone/laptop tech.**
 

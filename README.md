@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishchay</h1>
-<h3 align="center">Results-driven IT Professional with 7+ years of experience as a lead .NET full-stack developer. An agile practitioner with a special focus on cloud powered solutions. Currently enrolled in master’s program at Rutgers University, NJ, with a 3.9 GPA. Eager to explore new opportunities to leverage my skills and evolve as a leader.</h3>
+<h3 align="center">Results driven IT Professional with 7+ years of experience as a lead .NET full-stack developer with demonstrated record of building strong client relationships. Agile practitioner with special focus on cloud powered solutions. Strive to orchestrate symphonies of code, turning abstract designs into living, breathing applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raajann&label=Profile%20views&color=0e75b6&style=flat" alt="raajann" /> </p>
